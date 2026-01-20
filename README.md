@@ -37,7 +37,10 @@ Webpack Configuration: Setting up css-loader, html-webpack-plugin, and managing 
 
 DOM Orchestration: Using document.createElement and appendChild efficiently to build complex layouts without touching the HTML file.
 
-##📸 Credits
+## 📸 Credits
 [The Odin Project](https://www.theodinproject.com): For the project brief and guidance.
-Photography: [Photographer Name] via [Unsplash/Pexels].
+Photography:
+Photo by <a href="https://unsplash.com/@___atmos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caroline Badran</a> on <a href="https://unsplash.com/photos/modern-dining-room-with-expansive-windows-and-scenic-view-n2lSnn0tVKk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
+Photo by <a href="https://unsplash.com/@mham3816?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Madie Hamilton</a> on <a href="https://unsplash.com/photos/fried-food-on-black-pan-dZ-HI4EuWcA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@kekse_und_ich?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Svitlana</a> on <a href="https://unsplash.com/photos/a-glass-of-orange-juice-on-a-table-vexxZA_JNso?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 Inspiration: [Optional: Reference a real restaurant you like].
